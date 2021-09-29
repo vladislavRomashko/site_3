@@ -1,0 +1,258 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, serif;
+    background: #020303;
+}
+
+
+#header {
+    padding: 30px 0;
+}
+
+#header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#header .header-item {
+    text-decoration: none;
+    color: #d2c7b1;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+.logo {
+    text-decoration: none;
+}
+
+#header .logo {
+    margin-right: 282px;
+}
+
+.logo img {
+    display: inline-block;
+    vertical-align: middle;
+    width: 60px;
+    height: 40px;
+    margin-right: 11px;
+    vertical-align: middle;
+}
+
+#header .logo img {
+    margin-right: 11px;
+    vertical-align: middle;
+
+}
+
+.logo span {
+    vertical-align: middle;
+    display: inline-block;
+    width: 60px;
+    height: 40px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+#header a {
+    margin-right: 58px;
+    vertical-align: middle;
+}
+
+#main-container {
+    max-width: 1200px;
+    margin: 133px auto 80px auto;
+
+}
+
+#main-info {
+    max-width: 581px;
+    display: inline-block;
+}
+
+#block {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#main-info h1 {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.222;
+    margin: 0;
+}
+
+#main-info h1 span {
+    color: #ffaf18;
+}
+
+#main-info-items {
+    margin: 74px auto 0 auto;
+
+}
+
+.info-item {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+.info-item-image {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.info-item-text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+}
+
+/*.second {*/
+/*    margin-left: 100px;*/
+/*}*/
+
+#main-info-action button {
+    background-color: rgb(255, 175, 24);
+    width: 224px;
+    border-radius: 30px;
+    padding: 22px 52px;
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+    margin-top: 92px;
+
+}
+
+#main-image {
+    display: inline-block;
+    vertical-align: middle;
+    /*margin-left: 51px;*/
+
+
+}
+
+#menu-container {
+    max-width: 1200px;
+    padding: 120px 0 120px 0;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#menu-container h2 {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    margin: 0;
+}
+
+#menu-items {
+
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0;
+    margin: 0 -12px;
+    margin-top: 48px;
+}
+
+#menu-items .menu-item {
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0px 3px 13.8px 1.2px rgba(152, 152, 152, 0.2);
+    width: 282px;
+    /*height: 354px;*/
+    display: inline-block;
+    vertical-align: middle;
+    margin: 12px;
+    text-align: center;
+}
+
+#menu-items .menu-item-image {
+    margin: 10px 0 30px 0;
+}
+
+#menu-items .menu-item-name {
+    font-size: 18px;
+    color: rgb(24, 26, 26);
+    font-weight: bold;
+}
+
+#menu-items .menu-item-about {
+    font-size: 14px;
+    color: rgb(24, 26, 26);
+    line-height: 1.286;
+    width: 242px;
+    height: 50px;
+    text-align: center;
+    margin: 15px 20px;
+}
+
+.menu-item-action button {
+    background-color: rgb(255, 175, 24);
+    width: 242px;
+    padding: 17px;
+    border-radius: 25px;
+    margin: 0 auto 15px auto;
+    border: none;
+    font-size: 16px;
+    color: rgb(2, 3, 3);
+    font-weight: bold;
+}
+
+#cook-container {
+    max-width: 1200px;
+    margin: 109px auto 30px auto;
+}
+
+#cook-info {
+    display: inline-block;
+    vertical-align: top;
+    width: 386px;
+
+}
+
+#cook-info-header {
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+#cook-info-text {
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    margin-top: 60px;
+}
+
+#cook-image {
+    display: inline-block;
+    margin-left: 14px;
+
+}
+
+#footer {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#footer-text {
+    font-size: 12px;
+    color: rgb(44, 44, 44);
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 390px;
+}
+
+#footer .logo {
+    display: inline-block;
+    margin-bottom: 30px;
+}
